@@ -134,12 +134,14 @@
 The [carpenter](https://github.com/fmichonneau/carpenter) R pacakge provides helper functions to create these labels from a CSV file using the GitHub API.
 To use the GitHub API, you need to obtain a GitHub Personal Access Token (PAT). This PAT is a way for GitHub to identify you and should be treated as a password.
 
-1. Once you have installed [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download), at the RStudio console, install the `remotes` package:
+1. Once you have installed [R](https://cran.r-project.org/) and
+   [RStudio](https://www.rstudio.com/products/rstudio/download/#download), at
+   the RStudio console, install the `remotes` package:
 
-```r
-install.packages("remotes")
-```
-
+   ```r
+   install.packages("remotes")
+   ```
+   
 1. Go to <https://github.com/settings/tokens>, and click on the "Generate new
    token" button.
    
