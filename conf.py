@@ -50,7 +50,7 @@ extensions = ['sphinx_markdown_tables',
               ]
 
 notfound_context = {
-        'body': '<h1>This page may have moved.</h1> <p>Please select a page from the side menu or contact team@carpentries.org if you need additional help.</p>',
+        'body': '<h1>Oops! Nothing to see here.</h1> <p>This page may have moved or does not exist. Please select a page from the side menu or contact <a href="mailto:team@carpentries.org>team@carpentries.org</a> if you need additional help.</p>',
 }
 
 notfound_no_urls_prefix = True
