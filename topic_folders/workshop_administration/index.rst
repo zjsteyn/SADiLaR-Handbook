@@ -1,10 +1,9 @@
-WORKSHOP ADMINISTRATION
-========================
+WORKSHOP AND EVENT ADMINISTRATION
+=================================
 
-Around the world, Carpentries workshops are organised by a team of Regional Coordinators.
-Our staff Workshop and Logistics Manager manages workshops in most of the world. In some parts of the world, local Carpenters support managing local workshops and building local communities. They work with our member sites or as volunteers. `Read more <https://carpentries.org/regionalcoordinators/>`_ about who they are and what they do.
+As part of SADiLaR's mandate we run workshops within the domain of Humanities and Social Sciences.
 
-This section outlines their work specifically as it relates to workshop administration. 
+Workshops can be requested by external parties from our `website <https://www.sadilar.org/index.php/proposals-and-workshops/request-a-workshop>`_, once a request is received it is reviewed and if approved an event will be created on Trello using the SADiLaR workshop template.
 
 .. toctree::
    :maxdepth: 2
