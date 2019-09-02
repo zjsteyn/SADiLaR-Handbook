@@ -1,4 +1,4 @@
-## Travel procedures
+## TRAVEL PROCEDURES
 
 For SADiLaR related travel specific procedures needs to be followed.
 
