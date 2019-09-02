@@ -1,5 +1,6 @@
 COMMUNICATIONS
-================
+==============
+This section describes all communication related procedures at SADiLaR.
 
 .. toctree::
    :maxdepth: 2   
