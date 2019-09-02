@@ -1,8 +1,6 @@
 ### Why was this handbook created?
 
-Historically, information and resources related to [The Carpentries](https://carpentries.org/) have been spread across various websites, Google docs, GitHub repos, and more. The handbook is a one-stop shop that consolidates information on running a workshop, developing or maintaining lessons, participating in an instructor training event, and more! 
-
-Many community members have contributed to this handbook, and we welcome feedback on this Handbook. Feel free to submit issues or pull requests to [this GitHub repo](https://github.com/carpentries/handbook/) to improve this community resource.
+The aim of this handbook is to provide SADiLaR staff with day-to-day procedures and imporant SADiLaR policy documentation 
 
 
 ### Building this site
