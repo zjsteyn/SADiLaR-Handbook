@@ -23,17 +23,14 @@ Below are general resources of use to various segments of the SADiLaR project.
    :caption: General Resources
    
    topic_folders/travel_procedures/index.rst
-   topic_folders/assessment/index.rst
+   topic_folders/financial_procedures/index.rst
    topic_folders/communications/index.rst
-   topic_folders/for_instructors/index.rst
+   topic_folders/contract_matters/index.rst
    topic_folders/governance/index.rst
-   topic_folders/instructor_development/index.rst
-   topic_folders/instructor_training/index.rst
-   topic_folders/lesson_development/index.rst
-   topic_folders/maintainers/index.rst
+   topic_folders/reporting_procedures/index.rst
+   topic_folders/project_plans/index.rst
+   topic_folders/useful_information/index.rst
    topic_folders/policies/index.rst
-   topic_folders/regional_communities/index.rst
-   topic_folders/hosts_instructors/index.rst
    topic_folders/workshop_administration/index.rst
 
 .. toctree::
@@ -41,6 +38,6 @@ Below are general resources of use to various segments of the SADiLaR project.
    :caption: About
    :glob:
 
-   readme
-   LICENSE
+   <> (readme)
+   <> (LICENSE)
    
