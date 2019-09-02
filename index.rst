@@ -5,7 +5,7 @@ The SADiLaR Hanbook
 `The South African Centre for Digital Languages <https://www.sadilar.org/>`_ The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI). SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences. 
 SADiLaR employees, workshop hosts, collaborators, and learners must be prepared to follow our `Code of Conduct <https://www.sadilar.org/index.php/proposals-and-workshops/request-a-workshop/code-of-conduct>`_.
 
-This website is based on `The Carpentries Hanbook <https://www.sadilar.org/index.php/proposals-and-workshops/request-a-workshop/code-of-conduct>`_.
+This website is based on `The Carpentries Handbook <https://www.sadilar.org/index.php/proposals-and-workshops/request-a-workshop/code-of-conduct>`_.
 
 
 .. toctree::
