@@ -9,6 +9,8 @@ This site is built using the [Sphinx](http://www.sphinx-doc.org/en/stable/) docu
 
 For more information about using Sphinx, see the [Getting Started guide (sphinx-doc.org)](http://www.sphinx-doc.org/en/stable/usage/quickstart.html) or the [Quick Start (readthedocs.io)](https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html#quick-start) for an explanation of how to use Sphinx.
 
+The [Carpentries Handbook](https://docs.carpentries.org/) was used as a base to build the SADiLaR Handbook Site.
+
 #### Required dependencies
 
 To install the required dependencies (Sphinx and the ReadTheDocs Sphinx theme), execute the following command from the repository directory to install all Python dependencies:
@@ -69,8 +71,4 @@ Something in this template causes `.md` extensions to get stripped, breaking lin
 
 #### Additional information
 
-This site is built from the master branch of [this repo (carpentries/handbook)](https://github.com/carpentries/handbook/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.
-
-If you are making experimental changes to content please be sure to do so in a non-master, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in [carpentries/handbook](https://github.com/carpentries/handbook).
-
-Draft content can be added to the [drafts folder of the carpentries/userguides repo](https://github.com/carpentries/usersguides/tree/master/drafts) (in the master branch) without breaking anything. Draft content is not built to the live site and these files may contain inaccurate or out of date information.
+This site is built from the master branch of [this repo](https://github.com/zjsteyn/SADiLaR-Handbook).
