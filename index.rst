@@ -22,15 +22,15 @@ Below are general resources of use to various segments of the SADiLaR project.
    :glob:
    :caption: General Resources
    
-   topic_folders/travel_procedures/index.rst
+   
    topic_folders/financial_procedures/index.rst
    topic_folders/communications/index.rst
-   topic_folders/contract_matters/index.rst
+   topic_folders/contracts/index.rst
    topic_folders/governance/index.rst
-   topic_folders/reporting_procedures/index.rst
-   topic_folders/project_plans/index.rst
-   topic_folders/useful_information/index.rst
    topic_folders/policies/index.rst
+   topic_folders/project_plans/index.rst
+   topic_folders/reporting_procedures/index.rst
+   topic_folders/travel_procedures/index.rst
    topic_folders/workshop_administration/index.rst
 
 .. toctree::
