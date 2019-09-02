@@ -1,8 +1,11 @@
-The Carpentries Handbook
+The SADiLaR Hanbook
 ------------------------
 
 
-`The Carpentries <https://carpentries.org/>`_ teaches foundational coding, and data science skills to researchers worldwide. `Software Carpentry <https://software-carpentry.org/>`_, `Data Carpentry <https://datacarpentry.org/>`_, and `Library Carpentry <https://librarycarpentry.org/>`_ workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our `Code of Conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_.
+`The South African Centre for Digital Languages <https://www.sadilar.org/>`_ The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI). SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences. 
+SADiLaR employees, workshop hosts, collaborators, and learners must be prepared to follow our `Code of Conduct <https://www.sadilar.org/index.php/proposals-and-workshops/request-a-workshop/code-of-conduct>`_.
+
+This website is based on `The Carpentries Hanbook <https://www.sadilar.org/index.php/proposals-and-workshops/request-a-workshop/code-of-conduct>`_.
 
 
 .. toctree::
@@ -11,7 +14,7 @@ The Carpentries Handbook
 
    topic_folders/policies/index_coc.rst
 
-Below are general resources of use to various segments of The Carpentries community.
+Below are general resources of use to various segments of the SADiLaR project. 
 
 
 .. toctree::
